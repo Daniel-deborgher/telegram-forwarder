@@ -10,7 +10,7 @@ api_id = '26210305'
 api_hash = '34cbab68b08112262fa311a7affdd9d6'
 
 # Identifiant du groupe et du canal (utilisez les ID numériques si possible)
-group_id = 'testreplysol'
+group_id = 'MaybachGambleCalls'
 channel_id = 'solana_trojanbot'
 
 # Utiliser une session temporaire en mémoire
